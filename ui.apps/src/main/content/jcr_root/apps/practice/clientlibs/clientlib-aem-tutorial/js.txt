@@ -1,0 +1,3 @@
+#base=js
+firstcomponent.js
+servletcomponent.js

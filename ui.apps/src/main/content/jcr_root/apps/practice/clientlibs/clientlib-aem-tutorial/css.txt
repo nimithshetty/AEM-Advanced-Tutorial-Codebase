@@ -1,0 +1,3 @@
+#base=css
+firstcomponent.css
+servletcomponent.css
